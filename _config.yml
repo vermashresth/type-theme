@@ -5,10 +5,10 @@ url: "http://vermashresth.github.io" # the base hostname & protocol for your sit
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: "Shresth Verma"
-  avatar: avatar.png
+  title: Shresth Verma
+  avatar: aasfsmall.jpg
   gravatar: # Email MD5 hash
-  description: "Tech blog on deep learning and neural networks # used by search engines
+  description: "Tech blog on deep learning and neural networks" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -73,3 +73,6 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+
+#customizations
+header_text_feature_image: water.jpg
