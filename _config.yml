@@ -6,38 +6,36 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Type Theme
-  avatar: aasfsmall.jpg
+  avatar: avatar.png
   gravatar: # Email MD5 hash
-description: "A website with blog posts and pages" # used by search engines
+  description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Adventures in the Deep</p>
-
-     <p>My Journey Through Deep Learning and Neural networks</p>
-  header_text_feature_image: water.jpg
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
-
   # Icons
   rss: false
-  email_address: "vermashresth@gmail.com
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: "vermashresth"
+  github: "rohanchandra/type-theme"
   google_plus:
   instagram:
-  linkedin:  "linkedin.com/vermashresth"
+  linkedin:  # Full URL
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter: "twitter"
   wordpress:
   youtube:
 
@@ -73,5 +71,3 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
-
-
