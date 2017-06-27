@@ -6,16 +6,16 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Type Theme
-  avatar: avatar.png
+  avatar: aasfsmall.jpg
   gravatar: # Email MD5 hash
 description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p><h1>Adventures in the Deep</h1></p>
+     <p>Adventures in the Deep</p>
 
-     <p><h3>My Journey Through Deep Learning and Neural networks</h5></p>
-  header_text_feature_image:
+     <p>My Journey Through Deep Learning and Neural networks</p>
+  header_text_feature_image: water.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
@@ -74,5 +74,4 @@ sass:
   style: :compressed
 gems: [jekyll-paginate]
 
-#customizations
-header_text_feature_image: water.jpg
+
