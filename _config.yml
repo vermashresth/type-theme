@@ -12,9 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: img/water.jpg
+     <p>Journey Through the Deep</p>
+     <p>My Adventures in Deep Learning, Space and Time</p>
+  header_text_feature_image: img/sample_feature_img_2.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
   # Icons
