@@ -12,8 +12,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p><h2>Journey Through the Deep</h2></p>
-     <p>My Adventures in Deep Learning, Space and Time</p>
+     <p style="color:#d7dddb"><h2>Journey Through the Deep</h2></p>
+     <p style="color:#d7dddb">My Adventures in Deep Learning, Space and Time</p>
   header_text_feature_image: img/wallpaper1.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
