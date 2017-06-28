@@ -2,8 +2,8 @@
 .call-out {
   @extend %padding-regular;
   display: inline-block;
-  width: 50%;
-  height: 20%;
+  width: 100%;
+  height: 200%;
   background-color:$header-desc-background-color;
   background-size: cover;
   font-size: 1.2em;
