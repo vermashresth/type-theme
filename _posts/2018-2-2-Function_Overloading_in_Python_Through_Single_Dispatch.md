@@ -120,7 +120,7 @@ def angleinfo(object):
 
 @info.register(Distance)
 def distinfo(object):
-  print(object)
+    print(object)
 ```
 Notice how we can use different names for the same function. This is actually a good practice to make the code more readable
 and self explanatory.
