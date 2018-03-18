@@ -1,3 +1,7 @@
+---
+layout: post
+title: Function Overloading in Python Through Single Dispatch
+---
 Not long ago, python introduced the concept of Single Dispatch function in python 3.4. It is basically a way to implement function
 overloading using singledispatch decorator in functools and [pep443](https://www.python.org/dev/peps/pep-0443/) describes it in detail. It is really cool stuff but all the resources that I found elsewhere 
 seemed to make it complicated, so I'll try to explain it in simple terms, it's usecases and how best to make the most out of it.
